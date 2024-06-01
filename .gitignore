@@ -1,0 +1,8 @@
+baileys.log
+bot.qr.png
+core.class.log
+Dockerfile
+queue.class.log
+node_modules
+.env
+bot_sessions
